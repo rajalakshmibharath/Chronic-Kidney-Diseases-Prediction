@@ -1,1 +1,1 @@
-# Chronic-Kidney-Diseases-Prediction
+# Chronic_kidney_Disease_Prediction
